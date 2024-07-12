@@ -16,3 +16,11 @@ Coursera:
 	Math for Machine Learning Specialization
 	Intro to statistics[[]]
 
+Certifications:
+Server+
+Security+
+Linux+
+Azure
+AWS
+Cisco
+
