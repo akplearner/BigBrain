@@ -17,10 +17,10 @@ Coursera:
 	Intro to statistics[[]]
 
 Certifications:
-Server+
-Security+
-Linux+
-Azure
-AWS
-Cisco
+	Server+
+	Security+
+	Linux+
+	Azure
+	AWS
+	Cisco
 
