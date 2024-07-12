@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "a064864d0276e0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8450b27e4e873555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4bf064a736b583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHECKLIST.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e565305f95b288a",
+    "type": "split",
+    "children": [
+      {
+        "id": "89890f5189eadbd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fd1625125aafe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8976e19f52723d5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "057f7606fa52a2a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc059ea469b22552",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a9682e739162d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702a8daf28fc59ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHECKLIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55f71e3076b035be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHECKLIST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05af88f48e4ef323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed34ac9eb580a8c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CHECKLIST.md"
+              }
+            }
+          },
+          {
+            "id": "746088564c8d443b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3c4bf064a736b583",
+  "lastOpenFiles": [
+    "{Notes Improvements}.md",
+    "CHECKLIST.md",
+    "Math/Calculus.md",
+    "Math/Linear Algebra.md",
+    "Math/Probability.md",
+    "Sever+/Chapter 1/Racks.md",
+    "Machine Learning(Python)/Python libraries/Scikit-learn.md",
+    "Web Development",
+    "Untitled",
+    "CCNA",
+    "Azure",
+    "AWS",
+    "Linux+",
+    "Sever+/BSOD Troubleshooting.md",
+    "Sever+/Ports and Protocols.md",
+    "Sever+/Network models TCP IP.md",
+    "Sever+/BSOD Troubleshooting.md"
+  ]
+}

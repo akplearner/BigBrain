@@ -1,0 +1,2 @@
+- [ ] Focus on organizing the knowledge structure and note it in the [[CHECKLIST]]
+- [ ] 
