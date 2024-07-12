@@ -1,3 +1,7 @@
+**Join Community Projects Collaboration:** 
+https://hackershideout.atlassian.net/jira/polaris/projects/HHO/ideas/view/4757649
+
+
 BASICS OF AI:
 	Basics of Python
 	Basics of LLMs

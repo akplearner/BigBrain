@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sever+/Chapter 1/Racks.md",
+                "file": "CHECKLIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHECKLIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CHECKLIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "CHECKLIST.md"
               }
             }
           }
@@ -144,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38fd1625125aafe7",
+  "active": "3c4bf064a736b583",
   "lastOpenFiles": [
+    "Sever+/Chapter 1/Racks.md",
     "Web Development",
     "Untitled",
     "CCNA",
     "Azure",
     "AWS",
     "Linux+",
-    "Sever+/Chapter 1/Racks.md",
     "Untitled.md",
     "Sever+/BSOD Troubleshooting.md",
     "Sever+/Ports and Protocols.md",
