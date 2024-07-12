@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CHECKLIST.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -165,16 +165,19 @@
   },
   "active": "3c4bf064a736b583",
   "lastOpenFiles": [
+    "{Notes Improvements}.md",
+    "CHECKLIST.md",
+    "Math/Calculus.md",
+    "Math/Linear Algebra.md",
+    "Math/Probability.md",
     "Sever+/Chapter 1/Racks.md",
     "Machine Learning(Python)/Python libraries/Scikit-learn.md",
-    "CHECKLIST.md",
     "Web Development",
     "Untitled",
     "CCNA",
     "Azure",
     "AWS",
     "Linux+",
-    "Untitled.md",
     "Sever+/BSOD Troubleshooting.md",
     "Sever+/Ports and Protocols.md",
     "Sever+/Network models TCP IP.md",
